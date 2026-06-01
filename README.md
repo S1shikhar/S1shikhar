@@ -1,10 +1,15 @@
-Hi there  I'm Shikhar👋
+# Hi there  I'm Shikhar👋
 
-.
 
-A Brief intro - I'm a passionate coder with a strong foundation in web development, currently on an exciting journey to dive deep into machine learning. I love building innovative solutions that make an impact.
 
-Tech I've used
+###  A Brief Intro — I'm a passionate coder who loves solving Data Structures & Algorithms problems, building software projects, and exploring emerging technologies. Currently, I'm focused on sharpening my problem-solving skills, learning machine learning, and turning ideas into meaningful applications.
+
+
+
+
+
+
+##  Tech I've used
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -26,12 +31,18 @@ Tech I've used
 
 
 
-👨‍💻About me
-👋 Hi there! I'm a passionate Computer Science student at Vellore Institute of Technology, Bhopal, driven by a curiosity for how things work and a desire to create impactful software. My journey in coding started with a simple "what if?" and has evolved into a pursuit of building elegant solutions to complex problems. I'm currently honing my skills in full-stack development and the fundamentals of computer science.
+# 👨‍💻About me
+
+👋 Hi there! I'm Shikhar, a final-year Computer Science and Engineering student at Vellore Institute of Technology (VIT), Bhopal. I am passionate about software development, problem-solving, and building impactful applications that make a difference.
+
+💻 I have a strong interest in Full-Stack Development, Machine Learning, and Competitive Programming. Currently, I am focused on mastering Data Structures & Algorithms, enhancing my problem-solving abilities, and preparing for real-world software engineering challenges.
+
+🚀 I love solving Data Structures & Algorithms problems and continuously improving my coding skills through hands-on projects and coding platforms. I believe in learning by building, exploring new technologies, and transforming innovative ideas into practical solutions.
+
+🌱 Always learning, always building, and always ready for the next challenge.
 
 - 🎓 **Currently:** Pursuing my degree in Computer Science.
 - 🌱 **Learning:** In-depth Data Structures & Algorithms | Web Development (HTML, CSS, JavaScript, Node.js)
-- 🤝 **Looking for help with:** Advanced algorithm design patterns and software architecture principles.
 - 💡 **Ask me about:** My projects in C++, Python, or front-end web development!
 - 📫 **Reach me at:** shuklashikhar231@gmail.com
 - ✨ **Pronouns:** He/Him
