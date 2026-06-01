@@ -14,9 +14,14 @@ Tech I've used
 
 
 📈 My GitHub Stats
+## 🏆 LeetCode Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=S1shikhar&show_icons=true&theme=radical)
-
+<p align="center">
+  <a href="https://leetcode.com/u/Shikharshukla123/">
+    <img src="https://leetcard.jacoblin.cool/Shikharshukla123?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats"/>
+  </a>
+</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=S1shikhar&show_icons=true&theme=radical)
 👨‍💻About me
 👋 Hi there! I'm a passionate Computer Science student at Vellore Institute of Technology, Bhopal, driven by a curiosity for how things work and a desire to create impactful software. My journey in coding started with a simple "what if?" and has evolved into a pursuit of building elegant solutions to complex problems. I'm currently honing my skills in full-stack development and the fundamentals of computer science.
 
